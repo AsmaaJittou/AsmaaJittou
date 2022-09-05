@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asmaa Jittou
-- 👀 I’m interested in Computer science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning artificial intelligence 
 
 
